@@ -7,4 +7,5 @@ void main()
     // hello world program
 
     printf("Hello World");
+    printf("Hi my name is Akil");
 }
